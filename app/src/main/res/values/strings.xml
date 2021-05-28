@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Quiz</string>
     <string name="start">Start</string>
+    <string name="result">Result</string>
+    <string name="total_questions">Total questions: %1$d</string>
+    <string name="right_answers">Right answers: %1$d</string>
+    <string name="percents">Percents: %1$d</string>
+    <string name="again">Again</string>
+    <string name="next">Next</string>
 </resources>
